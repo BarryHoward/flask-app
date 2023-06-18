@@ -1,0 +1,14 @@
+[
+    {
+        "Name": "Donald Duck",
+        "Color": "blue",
+        "FontColor": "orange",
+        "BackgroundImage": "https://static.wikia.nocookie.net/thomas-and-twilight-sparkles-adventures/images/d/db/Donald_Duck_Iconic.png"
+    },
+    {
+        "Name": "Goofy",
+        "Color": "green",
+        "FontColor": "Black",
+        "BackgroundImage": "https://pngimg.com/uploads/goofy/goofy_PNG20.png"
+    }
+]

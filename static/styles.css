@@ -1,0 +1,5 @@
+.my-container{
+    padding: 2ex;
+    margin: 2ex;
+    background-size: contain !important;
+}
